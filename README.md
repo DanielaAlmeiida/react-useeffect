@@ -1,3 +1,8 @@
+![doguinhos-useeffect](https://github.com/DanielaAlmeiida/react-useeffect/assets/104696916/ad47d09d-2621-40c0-9553-a0801027334f)
+
+![doguinhos-useeffect 2](https://github.com/DanielaAlmeiida/react-useeffect/assets/104696916/39516528-b8ee-469a-8b0b-b8823b11c659)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
